@@ -37,7 +37,7 @@ namespace EVESharp.Database
     {
         private static MySqlConnection connection;
         private static Queue<string> queryQueue = new Queue<string>();
-        public static string Username = "root";
+        public static string Username = "root2";
         public static string Password = "root";
         public static string Host = "localhost";
         public static string DB = "eve";

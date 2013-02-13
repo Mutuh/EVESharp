@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CacheTool">
+</Property><Property Name="Solution File" Value="C:\Dev\space\eve_server\EVESharp\Tools\CacheTool\CacheTool.sln">
+</Property><Property Name="Date" Value="Monday, February 11, 2013">
+</Property><Property Name="Time" Value="20:15">
+</Property></Properties><Event ErrorLevel="0" Project="CacheTool" Source="CacheTool\CacheTool.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CacheTool" Source="CacheTool\CacheTool.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\Server\Common\Common.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Common" Source="..\..\Server\Common\Common.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Marshal" Source="..\..\Server\Marshal\Marshal.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Marshal" Source="..\..\Server\Marshal\Marshal.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="CacheTool.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CacheTool.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CacheTool" Source="CacheTool\CacheTool.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

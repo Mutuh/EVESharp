@@ -57,7 +57,7 @@ namespace EVESharp
         static string[,] proxy = new string[,]
         {
             // IP         Port
-            {"loopback", "26000"}
+            {"localhost", "26000"}
         };
 
         static public int NodeID
